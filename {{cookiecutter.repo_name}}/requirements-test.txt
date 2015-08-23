@@ -1,0 +1,4 @@
+Mock==1.0.1
+pytest-cov==1.8.1
+pytest==2.7.2
+pytest-mock==0.7.0
